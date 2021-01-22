@@ -1,0 +1,12 @@
+userinfo：
+  username：'xiongxueting@duia.com'
+  password：'Duia2020'
+  token：token
+  SID:"612a25fc-33bf-4892-b3ef-0317931498b3"
+data:
+  url:'http://back.test.duiastar.com/'
+  upload:
+    -
+      pictrue:
+      vedio:
+
