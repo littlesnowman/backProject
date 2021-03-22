@@ -1,12 +1,13 @@
 userinfo：
-  username：'xiongxueting@duia.com'
-  password：'Duia2020'
-  token：token
+  username:'xiongxueting@duia.com'
+  password:'Duia2020'
+  token:'token'
   SID:"612a25fc-33bf-4892-b3ef-0317931498b3"
-data:
-  url:'http://back.test.duiastar.com/'
-  upload:
+data：
+  url:"http://back.test.duiastar.com/"
+  file_path:"D:\\星童\\资料和素材\\素材\\Level3\\正式素材\\球6-巨石星球\\4.st\\1.学--定稿\\音频\\1.st st st.mp3"
+  file_data：
     -
-      pictrue:
-      vedio:
+      pictrue:''
+      vedio:''
 
